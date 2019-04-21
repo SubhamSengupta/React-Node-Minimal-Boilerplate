@@ -2,7 +2,14 @@
 A minimal boilerplate for React development with Node, Webpack and Babel.
 
 ## Instructions
-Just fork the repo and take a pull from master.
+Clone the repo.
+
+`git clone https://github.com/SubhamSengupta/React-Node-Minimal-Boilerplate.git`
+
+`cd` to the folder
+
+`cd React-Node-Minimal-Boilerplate`
+
 Start working with react at `src/App` folder. You can change this as per your conveniences.
 
 ## Script Commands
